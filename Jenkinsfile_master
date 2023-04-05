@@ -7,7 +7,7 @@ pipeline {
                     echo 'Initial : Delete containers and images'
                      dir('Week10') {
                         echo "Current path is  ${pwd()}"
-                        echo "Text2 xxxxxxxxxx"
+                        echo "Text3 xxxxxxxxxx"
                         sh 'docker-compose down --rmi all --volumes || true'
                      }
                 }
