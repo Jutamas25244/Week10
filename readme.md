@@ -1,4 +1,8 @@
+# VDO Week 10
+```
+https://drive.google.com/file/d/1ERH5uSwDgt6zPnyfVbKhaGTnGFY0y868/view?usp=share_link
 # Install jenkins, docker, docker-compose, and git
+```
 
 ### 1. Open the install_git_docker_docker_compose.sh file :
 
