@@ -126,3 +126,4 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 sudo chmod 666 /var/run/docker.sock
 ```
+asddd
