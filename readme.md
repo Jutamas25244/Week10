@@ -1,4 +1,4 @@
-# Install jenkins, docker, docker-compose, and git 
+# Install jenkins, docker, docker-compose, and git
 
 ### 1. Open the install_git_docker_docker_compose.sh file :
 
@@ -124,6 +124,5 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ## 12. Run the following command to install the Docker plugin:
 
 ```
-sudo chmod 666 /var/run/docker.sock 
+sudo chmod 666 /var/run/docker.sock
 ```
-asd
